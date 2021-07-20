@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "myphotoapplication-fa091": {
+      "hosting": {
+        "myPhotoApplication": [
+          "myphotoapplication-fa091"
+        ]
+      }
+    }
+  }
+}
